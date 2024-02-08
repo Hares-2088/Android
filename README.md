@@ -6,7 +6,7 @@ Adem Bessam, Charles Seguin
 
 ## Description:
 
-An application to book a room in the hotel you want. The app will show many Hotels and their ratings, prices and locations. The users would be the owners of the hotels and the customers would be the customers of the application.
+An application to book a room in the hotel you want. The app will show many Hotels and their ratings, prices and locations. The users would first be the owners of the hotels and second their customers would be the main operators of the application.
 
 ## Plan
 
