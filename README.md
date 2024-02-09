@@ -2,7 +2,8 @@
 
 ## Team: 
 
-Adem Bessam, Charles Seguin
+Adem Bessam, 2232468, 
+Charles Seguin, 2130442, cseguin@stu.champlaincollege.qc.ca
 
 ## Description:
 
