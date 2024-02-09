@@ -3,7 +3,7 @@
 ## Team: 
 
 Adem Bessam, 2232468, adembessam@gmail.com
-Charles Seguin, 2130442, cseguin@stu.champlaincollege.qc.ca
+Charles Seguin, 2130442, charles.seg42@gmail.com
 
 ## Description:
 
